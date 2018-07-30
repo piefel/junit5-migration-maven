@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/.settings
+/target
+/bin
+/.idea
+/junit5-migration-maven.iml
+/.jqwik-database
